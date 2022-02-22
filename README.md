@@ -1,6 +1,6 @@
 
 <h1 align="center">Web-Developer Portfolio Generator</h1>
-  <h2 align="center">University of Arizona Web Developers Bootcamp - Group Project 3</h2>
+ 
 
   <p align="center">
     <img src="https://img.shields.io/github/repo-size/Coding-Bootcamp-Survival-Guide/Coding-Bootcamp-Survival-Guide?style=plastic" />
@@ -37,7 +37,7 @@ The generated portfolio includes:
  * Projects you've worked on, including thumbnail images, live links, video walkthrough link, and GitHub repository information
  * Social media contact information 
 
-
+Originally developed as a group project through University of Arizona Coding Bootcamp
 <!-- ### Link to Walkthrough Video:
 
 > - [:movie_camera: Click Here for an external video link.](https://drive.google.com/file/d/1UL_enQS1NUaSNOnWEJRAG2vYJFQae5Vr/view)
@@ -100,14 +100,14 @@ Create a user-account (or login) and follow the directions included in the appli
 <br />
 This application is covered by the MIT license.
 
-## 👥Contributors:
+## 👥Original Contributors:
 
 - :octocat: [Kashay Arbelo](https://github.com/KashCodes)<br /> - _Project Manager, UX/UI Design, HTML, CSS, Template design & generation, JavaScript/JSX, QA, Presentation (Design & Front-End)_
 - :octocat: [Dan Arbelo](/https://github.com/Govepitr)<br /> - _UX/UI Design, HTML, CSS, JavaScript/JSX, QA, Presentation (Design & Front-End)_
 - :octocat: [Stephanie Giel](https://github.com/SGiel)<br /> - _Functional Design, JavaScript/JSX, React, Apollo/GraphQl/Mongoose API, QA, Presentation (Front & Back-End)_
 - :octocat: [Vicky Loebel](https://github.com/vloebel)<br /> - _Functional Design,  JavaScript/JSX, React, Database Design & Integration, JWT Authentication, Documentation (Front-end/Back-End)_
 
-
+Additional development: Vicky Loebel
 
 ## Questions
 
